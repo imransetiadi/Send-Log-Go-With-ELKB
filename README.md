@@ -105,15 +105,13 @@ I am assuming you have already installed Go on your machine.
    ```sh
    filebeat.inputs:
 
-   -  type: log
-      enabled: true
-      paths:
+   - type: log
+   enabled: true
+   paths:
     - /tmp/go_logs/*.log
    json.add_error_key: true
-   ```
-   
+
    output.elasticsearch:
-   ```sh
    # Array of hosts to connect to.
    hosts: ["localhost:9200"]
    ```
