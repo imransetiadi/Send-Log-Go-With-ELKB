@@ -11,7 +11,7 @@ Logs are very important for debugging, reporting, insights etc. In today’s tec
 
 ### Prerequisites
 
-I am assuming you have already installed Go on your machine. If not then you can refer to the installation guide here.
+I am assuming you have already installed Go on your machine.
 
 ### Installation
 
