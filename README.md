@@ -146,7 +146,7 @@ I am assuming you have already installed Go on your machine.
 <!-- Conclusion -->
 ## Conclusion
 
-We have successfully shipped our logs on Elasticsearch. This is only a small use case of ELKB Stack. It provides much more than this. You can explore more on the internet.
+We have successfully shipped our logs on Elasticsearch. This is only a small use case of ELKB Stack. It provides much more than this. I can explore more on the internet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
