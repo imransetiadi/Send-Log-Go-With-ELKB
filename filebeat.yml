@@ -1,0 +1,11 @@
+filebeat.inputs:
+
+- type: log
+  enabled: true
+  paths:
+    - /tmp/go_logs/*.log
+  json.add_error_key: true
+
+output.elasticsearch:
+  # Array of hosts to connect to.
+  hosts: ["localhost:9200"]
