@@ -1,13 +1,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-how easily we can write logs to the files in Golang. As well as we are going to store all logs on elasticsearch with EKB (Elasticsearch, Kibana, Beats).
+How easily we can write logs to the files in Golang. As well as we are going to store all logs on elasticsearch with EKB (Elasticsearch, Kibana, Beats).
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Logs are very important for debugging, reporting, insights etc. In today’s tech world, We uses multiple cloud servers, private servers etc. Which consist of lots of different applications, scripts, programs, daemons, services and they generate their logs too. It is very difficult to go to each server and check all log files in case of debugging or to generate any insights or reporting.
-
+Logs are very important for debugging, reporting, insights etc. 
 
 ### Prerequisites
 
