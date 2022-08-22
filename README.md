@@ -150,4 +150,6 @@ We have successfully shipped our logs on Elasticsearch. This is only a small use
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- LICENCE -->
+## LICENCE
+I want to say Thank You for the creator to help me learn a lot, i get the full tutorial, if you want check you can visit : https://devconnected.com/monitoring-linux-logs-with-kibana-and-rsyslog/
